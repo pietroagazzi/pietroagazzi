@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pietroagazzi&label=Profile%20views&color=0e75b6&style=flat" alt="pietroagazzi" /> </p>
 
-- 🌱 I’m currently learning Laravel e React
+- 🌱 I’m currently learning Laravel and React
 
 - 📫 How to reach me devmonky@protonmail.com
 
